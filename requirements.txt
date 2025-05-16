@@ -1,0 +1,7 @@
+transformers
+accelerate
+bitsandbytes
+peft
+fastapi
+uvicorn[standard]
+torch  # hoặc torch-cudaXX nếu muốn
